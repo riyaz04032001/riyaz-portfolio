@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="60" viewBox="0 0 180 60">
+  <rect x="1" y="1" width="178" height="58" rx="12" ry="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#e2e8f0">Aws</text>
+</svg>
