@@ -8,7 +8,7 @@ export default function Contact() {
             Email: <a href="mailto:riyaz.d1604@gmail.com">riyaz.d1604@gmail.com</a>
           </p>
           <p className="text-slate-300 mt-2">
-            LinkedIn: <a href="https://www.linkedin.com/in/DudekulaRiyaz01" target="_blank" rel="noreferrer">/in/DudekulaRiyaz01</a>
+            LinkedIn: <a href="https://www.linkedin.com/in/DudekulaRiyaz4" target="_blank" rel="noreferrer">/in/DudekulaRiyaz4</a>
           </p>
           <p className="text-slate-400 mt-2">Kansas, USA</p>
         </div>

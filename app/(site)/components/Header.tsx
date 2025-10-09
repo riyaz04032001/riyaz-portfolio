@@ -16,7 +16,8 @@ export default function Header() {
           <a href="#projects" className="text-slate-200 hover:text-white">Projects</a>
           <a href="#education" className="text-slate-200 hover:text-white">Education</a>
           <a href="#contact" className="text-slate-200 hover:text-white">Contact</a>
-          <a href="/Riyaz_Dudekula_Resume.pdf" className="badge">Download Resume</a>
+          <a href="/Riyaz_Dudekula_Resume.pdf" className="badge" download="Riyaz_Dudekula_Resume.pdf">Download Resume</a>
+
         </nav>
       </div>
     </header>
