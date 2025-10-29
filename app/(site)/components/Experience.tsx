@@ -53,7 +53,7 @@ const roles: Role[] = [
     company: "Merck Group",
     location: "Hyderabad, India",
     title: "Data Engineer",
-    period: "Jan 2021 – Aug 2022",
+    period: "Jan 2021 – Jul 2022",
     bullets: [
       "Developed PySpark ETL into HDFS/Snowflake/cloud storage.",
       "Orchestrated ADF + Databricks workflows for SQL Server ingestion.",
