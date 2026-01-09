@@ -39,14 +39,17 @@ const roles: Role[] = [
   {
     company: "State Street (Accenture)",
     location: "Hyderabad, India",
-    title: "GCP Data Engineer",
+    title: "Data Engineer",
     period: "Jul 2022 – Jul 2023",
     bullets: [
-      "Built batch & streaming pipelines using Dataproc, Dataflow, Airflow DAGs.",
-      "Created HBase/Hive schemas with ORC+Snappy for storage & speed.",
-      "Published BigQuery marts & views powering consistent dashboards.",
-      "Autoscaled Dataproc clusters to reduce idle cost; improved reliability.",
-      "Integrated Cassandra via DataStax connector; bridged GCP ↔ Azure via ADF."
+      "Designed and created Hive, HBase, and HBase-integrated Hive tables using ORC format and Snappy compression for optimized storage and query performance.",
+      "	Developed scalable data ingestion frameworks using ADF Mapping Data Flows, DataFlow, and Dataproc, improving pipeline throughput and reliability",
+"Developed end-to-end ETL and streaming pipelines using Dataproc, Dataflow, PySpark, Spark-Scala, and Python DAGs in Airflow for batch and real-time analytics",
+"	Migrated datasets between Azure and GCP using Azure Data Factory, enabling multi-cloud analytics and cost-efficient data processing",
+"	Integrated Cassandra (NoSQL) using DataStax Spark Connector, accelerating low-latency reads/writes for high-volume operational systems.",
+"Performed data modeling (Star/Snowflake) and query optimization across Hive, Spark SQL, and Azure SQL/Synapse, improving query execution times"
+
+
     ]
   },
   {
