@@ -30,8 +30,10 @@ export default function Hero() {
               Data Engineer · AWS · Azure · GCP
             </h1>
             <p className="mt-3 text-slate-300 text-sm sm:text-base">
-              I design and ship end-to-end data pipelines, real-time streaming, and analytics platforms.
-              4+ years across cloud & on-prem: Spark, Airflow, Kafka, Snowflake, Databricks.
+              Data Engineer with 5+ years of expertise in architecting,
+              designing, and implementing end-to-end data pipelines, ETL
+              processes, and analytics solutions across AWS, Azure and
+              on-premises Hadoop ecosystems.
             </p>
 
             {/* Buttons */}
@@ -39,17 +41,16 @@ export default function Hero() {
               <a className="badge" href="#projects">
                 View Projects
               </a>
-              <a className="badge" href="mailto:riyaz.d1604@gmail.com">
+              <a className="badge" href="mailto:Riyazdudekula04@gmail.com">
                 Contact Me
               </a>
               <a
                 className="badge"
                 target="_blank"
-                href="https://www.linkedin.com/in/DudekulaRiyaz01"
+                href="https://www.linkedin.com/in/riyaz04/"
               >
                 LinkedIn
               </a>
-             
             </div>
           </div>
         </div>
